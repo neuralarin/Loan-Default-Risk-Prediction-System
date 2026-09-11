@@ -2,7 +2,7 @@
 
 ## 🏦 Industry Domain 
 
-Banking & Financial Services 
+Banking & Financial Services
 
 -----
  
